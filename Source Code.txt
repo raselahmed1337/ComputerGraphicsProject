@@ -1,4 +1,4 @@
-#include<cstdio>  ///Final Project ///Last Attempt
+#include<cstdio>
 #include<GL/gl.h>
 #include <GL/glut.h>
 #include<Windows.h>
